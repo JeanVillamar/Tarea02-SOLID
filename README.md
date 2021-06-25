@@ -100,5 +100,25 @@ De esta forma todos los nuevos tamaños de asteroides que quisieran añadirse en
 
 
 
+Repositorio3: https://github.com/anuvgupta/murk.git
+
+![image](https://user-images.githubusercontent.com/74307558/123459956-94a71080-d5ac-11eb-8377-35d879cb00a7.png)
+
+Agrega un tipo de accion para cada celda dependiendo del lugar donde se encuentre el jugador pero si quisieramos agregar mas lugares con su respectiva acción se estaria violando el principio LSP, por lo cual una solución mas óptima seria crear una clase abstracta de acciones con el metodo addAction(que se encargara de agregar la accion) en la cual de ella van a extender los diferentes tipos de Lugares con su respectivo addAction.
+
+![image](https://user-images.githubusercontent.com/74307558/123460017-a5578680-d5ac-11eb-9754-ec91a527d3cd.png)
+
+Así cumplimos con OCP y LSP
+
+La clase Player manipula los datos del jugador y a la vez también lo hace con los datos de Item por lo cual incumple con SRP.
+![image](https://user-images.githubusercontent.com/74307558/123460286-02ebd300-d5ad-11eb-9a06-4e7dd129d434.png)
+
+Por lo cual:
+![image](https://user-images.githubusercontent.com/74307558/123460743-b6ed5e00-d5ad-11eb-81dd-ec5ba5ac2116.png)
+
+
+
+
+
 
 
