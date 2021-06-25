@@ -22,3 +22,10 @@ Hacer una interfaz Objeto, que nos permita identificar si un Objeto es de Ataque
 ![Captura de pantalla (104)](https://user-images.githubusercontent.com/33163800/123381372-46ffb900-d556-11eb-8ec2-6bf009bdd734.png)
 ![Captura de pantalla (105)](https://user-images.githubusercontent.com/33163800/123381376-47984f80-d556-11eb-9231-f3ded444658e.png)
 ![Captura de pantalla (106)](https://user-images.githubusercontent.com/33163800/123381379-4830e600-d556-11eb-8163-269378013088.png)
+
+# Propuesta
+
+
+![Captura de pantalla (107)](https://user-images.githubusercontent.com/33163800/123382202-474c8400-d557-11eb-956c-be786bfd601f.png)
+
+
